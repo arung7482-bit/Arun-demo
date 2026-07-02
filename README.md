@@ -18,7 +18,7 @@
 - CSS3
 
 ## Folder Structure
-
+```
 portfolio-site/
 ├── index.html
 ├── about.html
@@ -27,5 +27,5 @@ portfolio-site/
 │ └── main.css
 ├── images/
 └── README.md
-
+```
 
