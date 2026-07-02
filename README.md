@@ -28,9 +28,4 @@ portfolio-site/
 ├── images/
 └── README.md
 
-## How to Run
-
-1. Download the project.
-2. Open `index.html` in your browser.
-3. Navigate between pages using the navigation bar.
 
